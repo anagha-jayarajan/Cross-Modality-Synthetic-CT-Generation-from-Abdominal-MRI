@@ -1,4 +1,4 @@
-# Cross-Modality-Synthetic-CT-Generation-from-Abdominal-MRI
+
 # MRI-to-Synthetic CT Generation for Pelvic Radiotherapy Planning Using Pix2Pix cGAN
 
 **A Deep Learning Research Project in Medical Image Synthesis and MRI-Only Radiotherapy Planning**
